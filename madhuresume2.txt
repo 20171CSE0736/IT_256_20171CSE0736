@@ -25,5 +25,6 @@
 		<p><b>Education</b></p>
 		<p><b>Sri Chaithanya Collage:</b> 2015 <br />		
 		   <b>Excellent High School </b>-Nandyal, AP</p>
+		    click<a href="tt.html">here</a>
 	</body>
 </html>
